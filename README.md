@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @Parthh191
-- 🌱 I’m currently learning DSA and Web Development
