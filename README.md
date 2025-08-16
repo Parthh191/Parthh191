@@ -44,12 +44,15 @@
 <p align="left">
   <a href="https://linkedin.com/in/parthh191" target="_blank">
     <img src="https://img.icons8.com/color/36/000000/linkedin.png" alt="LinkedIn" width="32" height="32"/>
+    <span style="font-size: 18px; vertical-align: middle; margin-left: 6px;">LinkedIn</span>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:tyagiparth286@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/36/000000/gmail-new.png" alt="Email" width="32" height="32"/>
+    <span style="font-size: 18px; vertical-align: middle; margin-left: 6px;">Email</span>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/PARTHTYAGI77751" target="_blank">
     <img src="https://img.icons8.com/ios-filled/36/000000/x.png" alt="X" width="32" height="32"/>
+    <span style="font-size: 18px; vertical-align: middle; margin-left: 6px;">X</span>
   </a>
 </p>
 
