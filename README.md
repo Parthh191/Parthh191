@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://parthtyagi.me" target="_blank">
+  <a href="https://neon-blancmange-68e9fe.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Parth%20Tyagi-00C853?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
   </a>
 </p>
@@ -51,7 +51,9 @@
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&theme=radical" alt="Contribution Graph" />
+  <b style="font-size:1.2em;">📈 Parth Tyagi's Contribution Graph</b><br/>
+  <span style="color:#888;">Visualize your daily GitHub activity and open source impact!</span><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <!-- Animated Divider -->
