@@ -1,9 +1,25 @@
 <p align="center">
+  <a href="https://parthtyagi.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Parth%20Tyagi-00C853?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Welcome Animation" width="600" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Parth+Tyagi;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
 ---
@@ -31,6 +47,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthh191&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthh191&theme=radical" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&theme=radical" alt="Contribution Graph" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
 ---
