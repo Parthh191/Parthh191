@@ -103,7 +103,7 @@ A passionate and fast-learning web developer in the making, actively exploring t
 </p>
 
 
-### ### 📫 Connect with Me
+###  📫 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/PARTHTYAGI77751" target="_blank">
