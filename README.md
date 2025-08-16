@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Welcome Animation" width="600" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Parth+Tyagi;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
