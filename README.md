@@ -35,41 +35,23 @@
 
 ### 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://hyperwiz.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/rocket.png" width="40" height="40" alt="HyperWiz" />
-  </a>
-  <a href="https://wizinsight.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/insights.png" width="40" height="40" alt="WizInsight" />
-  </a>
-</p>
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" style="vertical-align:top; padding:16px; border:1px solid #444; border-radius:10px;">
-        <a href="https://hyperwiz.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/color/48/000000/rocket.png" width="32" height="32" alt="HyperWiz" />
-        </a>
-        <br/>
-        <b>HyperWiz</b><br/>
-        <a href="https://github.com/wizforge/hyperwiz" target="_blank">GitHub Repo</a> | <a href="https://hyperwiz.vercel.app/" target="_blank">Live Demo</a>
-        <br/>
-        <i>Open course library platform for interactive learning and resources.</i>
-      </td>
-      <td align="center" width="50%" style="vertical-align:top; padding:16px; border:1px solid #444; border-radius:10px;">
-        <a href="https://wizinsight.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/color/48/000000/insights.png" width="32" height="32" alt="WizInsight" />
-        </a>
-        <br/>
-        <b>WizInsight</b><br/>
-        <a href="https://github.com/wizforge/wizinsight" target="_blank">GitHub Repo</a> | <a href="https://wizinsight.vercel.app/" target="_blank">Live Demo</a>
-        <br/>
-        <i>Advanced analytics and insights for open course libraries.</i>
-      </td>
-    </tr>
-  </table>
-</div>
+#### 🚀 [HyperWiz](https://hyperwiz.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/wizforge/hyperwiz)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel)](https://hyperwiz.vercel.app/)
+
+> <i>Open course library platform for interactive learning and resources.</i>
+> <b>Highlights:</b> Fast, interactive UI · Rich course content · Community-driven
+
+---
+
+#### 📊 [WizInsight](https://wizinsight.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/wizforge/wizinsight)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel)](https://wizinsight.vercel.app/)
+
+> <i>Advanced analytics and insights for open course libraries.</i>
+> <b>Highlights:</b> Real-time analytics · Beautiful dashboards · Easy integration
 
 ---
 
