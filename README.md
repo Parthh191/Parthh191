@@ -95,14 +95,11 @@
 > <i>Advanced analytics and insights for open course libraries.</i>
 > <b>Highlights:</b> Real-time analytics · Beautiful dashboards · Easy integration
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
-### 🏆 Achievements
-- 🥇 Top contributor in several open-source projects
-- 🚀 Built multiple automation tools
-- 🌟 Active participant in hackathons
-
----
 
 ### 📫 Connect with Me
 
@@ -129,7 +126,11 @@
   </tr>
 </table>
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
 
 <!-- Profile Views Counter -->
 <p align="center">
