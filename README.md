@@ -42,12 +42,12 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/parthh191" target="_blank" style="margin-right: 16px;">
+  <a href="https://linkedin.com/in/parthh191" target="_blank">
     <img src="https://img.icons8.com/color/36/000000/linkedin.png" alt="LinkedIn" width="32" height="32"/>
-  </a>
-  <a href="mailto:tyagiparth286@gmail.com" target="_blank" style="margin-right: 16px;">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tyagiparth286@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/36/000000/gmail-new.png" alt="Email" width="32" height="32"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/PARTHTYAGI77751" target="_blank">
     <img src="https://img.icons8.com/ios-filled/36/000000/x.png" alt="X" width="32" height="32"/>
   </a>
