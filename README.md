@@ -23,13 +23,7 @@
 </p>
 
 ### 🧑‍💻 About Me
-- 🔭 I'm currently working on exciting web and AI projects
-- 🌱 I'm currently learning Next.js, TypeScript, and Machine Learning
-- 👯 I'm looking to collaborate on open-source and innovative tech
-- 💬 Ask me about JavaScript, Python, or anything tech!
-- 📫 How to reach me: [Email](mailto:tyagiparth286@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love building automation tools!
+A passionate and fast-learning web developer in the making, actively exploring the world of full-stack development. I’m currently pursuing my B.Tech and building a strong foundation in both frontend and backend development. I’m continuously growing my skills by working on real-world projects and am committed to sharpening them every day to become industry-ready.
 
 <!-- Animated Divider -->
 <p align="center">
@@ -88,21 +82,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/wizforge/hyperwiz)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel)](https://hyperwiz.vercel.app/)
 
-> <i>Open course library platform for interactive learning and resources.</i>
-> <b>Highlights:</b> Fast, interactive UI · Rich course content · Community-driven
+> **HyperWiz** is a secure, lightweight HTTP client library for modern web applications. It features zero-dependency setup, powerful interceptors, auto retry with adaptive backoff, and smart caching (in-memory or IndexedDB) with automatic expiration. Built with TypeScript-first design, HyperWiz offers full type safety, cookie support, and complete developer control for reliable, fast, and flexible HTTP requests.  
+> **Highlights:** Zero-config setup · Flexible interceptors · Auto retry · Smart caching · TypeScript support · Secure by default
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-
 #### 📊 [WizInsight](https://wizinsight.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/wizforge/wizinsight)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel)](https://wizinsight.vercel.app/)
 
-> <i>Advanced analytics and insights for open course libraries.</i>
-> <b>Highlights:</b> Real-time analytics · Beautiful dashboards · Easy integration
+> **WizInsight** is a lightweight performance monitoring and health tracking library for APIs, designed for the HyperWiz ecosystem. It provides real-time request metrics, health monitoring for multiple endpoints, instant Discord alerts, and works out of the box with zero configuration. WizInsight supports TypeScript, custom logging, and smart request optimization, helping you proactively monitor, track, and maintain reliable APIs.  
+> **Highlights:** Request metrics · Health monitoring · Discord integration · Zero config · TypeScript support · Smart optimization
 
 <!-- Animated Divider -->
 <p align="center">
