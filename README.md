@@ -33,6 +33,46 @@
 
 ---
 
+### 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://hyperwiz.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/rocket.png" width="40" height="40" alt="HyperWiz" />
+  </a>
+  <a href="https://wizinsight.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/insights.png" width="40" height="40" alt="WizInsight" />
+  </a>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%" style="vertical-align:top; padding:16px; border:1px solid #444; border-radius:10px;">
+        <a href="https://hyperwiz.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/48/000000/rocket.png" width="32" height="32" alt="HyperWiz" />
+        </a>
+        <br/>
+        <b>HyperWiz</b><br/>
+        <a href="https://github.com/wizforge/hyperwiz" target="_blank">GitHub Repo</a> | <a href="https://hyperwiz.vercel.app/" target="_blank">Live Demo</a>
+        <br/>
+        <i>Open course library platform for interactive learning and resources.</i>
+      </td>
+      <td align="center" width="50%" style="vertical-align:top; padding:16px; border:1px solid #444; border-radius:10px;">
+        <a href="https://wizinsight.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/48/000000/insights.png" width="32" height="32" alt="WizInsight" />
+        </a>
+        <br/>
+        <b>WizInsight</b><br/>
+        <a href="https://github.com/wizforge/wizinsight" target="_blank">GitHub Repo</a> | <a href="https://wizinsight.vercel.app/" target="_blank">Live Demo</a>
+        <br/>
+        <i>Advanced analytics and insights for open course libraries.</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🏆 Achievements
 - 🥇 Top contributor in several open-source projects
 - 🚀 Built multiple automation tools
