@@ -22,8 +22,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
----
-
 ### 🧑‍💻 About Me
 - 🔭 I'm currently working on exciting web and AI projects
 - 🌱 I'm currently learning Next.js, TypeScript, and Machine Learning
@@ -33,14 +31,20 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building automation tools!
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
 
 ### 🚀 Technologies & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,git,github,gitlab,linux,docker,vercel,supabase,java,pytorch,opencv,scikit-learn" />
 </p>
-
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ### 📊 GitHub Stats & Activity
 
@@ -73,11 +77,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
----
-
 ### 🌟 Featured Projects
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
----
 
 #### 🚀 [HyperWiz](https://hyperwiz.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/wizforge/hyperwiz)
@@ -86,7 +91,11 @@
 > <i>Open course library platform for interactive learning and resources.</i>
 > <b>Highlights:</b> Fast, interactive UI · Rich course content · Community-driven
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
 
 #### 📊 [WizInsight](https://wizinsight.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/wizforge/wizinsight)
