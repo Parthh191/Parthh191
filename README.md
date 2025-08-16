@@ -25,9 +25,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on exciting web and AI projects
-- 🌱 I’m currently learning Next.js, TypeScript, and Machine Learning
-- 👯 I’m looking to collaborate on open-source and innovative tech
+- 🔭 I'm currently working on exciting web and AI projects
+- 🌱 I'm currently learning Next.js, TypeScript, and Machine Learning
+- 👯 I'm looking to collaborate on open-source and innovative tech
 - 💬 Ask me about JavaScript, Python, or anything tech!
 - 📫 How to reach me: [Email](mailto:tyagiparth286@gmail.com)
 - 😄 Pronouns: He/Him
@@ -44,16 +44,34 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthh191&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthh191&theme=radical" />
 </p>
 
-<!-- Contribution Graph -->
+<!-- Official GitHub Contribution Graph -->
 <p align="center">
   <b style="font-size:1.2em;">📈 Parth Tyagi's Contribution Graph</b><br/>
-  <span style="color:#888;">Visualize your daily GitHub activity and open source impact!</span><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+  <span style="color:#888;">My GitHub contribution activity over the past year</span><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parthh191/Parthh191/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parthh191/Parthh191/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parthh191/Parthh191/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<!-- Alternative: Activity Graph (more reliable service) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parthh191&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthh191&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- Animated Divider -->
@@ -118,3 +136,8 @@
 </table>
 
 ---
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parthh191&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
