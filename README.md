@@ -103,20 +103,23 @@ A passionate and fast-learning web developer in the making, actively exploring t
 </p>
 
 
-### 📫 Connect with Me
+### ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/PARTHTYAGI77751" target="_blank" style="margin:0 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="48" height="48" />
+  <a href="https://twitter.com/PARTHTYAGI77751" target="_blank">
+    <img src="https://img.shields.io/badge/🐦%20Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/parthh191" target="_blank" style="margin:0 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/parthh191" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tyagiparth286@gmail.com" target="_blank" style="margin:0 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tyagiparth286@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/silentscrawl" target="_blank" style="margin:0 20px;">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/silentscrawl" target="_blank">
+    <img src="https://img.shields.io/badge/💬%20Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
