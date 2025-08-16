@@ -19,7 +19,7 @@
 
 ### 🚀 Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,git,github,gitlab,linux,docker,vercel,supabase,java,jupyter,pytorch,opencv,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,git,github,gitlab,linux,docker,vercel,supabase,java,pytorch,opencv,scikit-learn" />
 </p>
 
 ---
