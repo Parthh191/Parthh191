@@ -43,35 +43,36 @@
 ---
 
 ### 📊 GitHub Stats & Activity
+
+<!-- GitHub Stats Cards -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthh191&theme=radical" alt="GitHub Streak" />
 </p>
+
+<!-- Manual Activity Summary -->
+<div align="center">
+
+### 🎯 **2024 Contribution Summary**
+**Total Contributions:** 331 contributions in the last year  
+**Peak Activity:** July - August 2024  
+**Consistency:** Regular contributor across multiple projects  
+
+*📝 Note: Graphs below show public contributions only. Total includes private repository work.*
+
+</div>
+
+<!-- Public Contribution Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthh191&theme=radical" />
+  <b>📈 Public Contribution Activity</b><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Public%20Repository%20Activity" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-<!-- GitHub Contribution Graph -->
-<p align="center">
-  <b style="font-size:1.2em;">📈 GitHub Activity & Contributions</b><br/>
-  <span style="color:#888;">331 contributions in the last year</span><br/><br/>
-</p>
-
-<!-- Primary Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Parth%20Tyagi%27s%20GitHub%20Activity" width="100%" alt="GitHub Activity Graph" />
-</p>
-
-<!-- Alternative: GitHub Contribution Grid -->
+<!-- Alternative Contribution Display -->
 <p align="center">
   <img src="https://ghchart.rshah.org/00FF41/Parthh191" alt="GitHub Contribution Chart" width="100%" />
-</p>
-
-<!-- Backup: Contribution Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Parthh191&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" alt="GitHub Streak Stats" />
 </p>
 
 <!-- Language Stats -->
