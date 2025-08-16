@@ -53,20 +53,25 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthh191&theme=radical" />
 </p>
 
-<!-- Official GitHub Contribution Graph -->
+<!-- GitHub Contribution Graph - Multiple Reliable Options -->
 <p align="center">
   <b style="font-size:1.2em;">📈 Parth Tyagi's Contribution Graph</b><br/>
   <span style="color:#888;">My GitHub contribution activity over the past year</span><br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parthh191/Parthh191/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parthh191/Parthh191/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parthh191/Parthh191/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
-<!-- Alternative: Activity Graph (more reliable service) -->
+<!-- Option 1: GitHub Activity Graph (Most Reliable) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parthh191&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&theme=react-dark&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true&custom_title=Parth%20Tyagi's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+</p>
+
+<!-- Option 2: Alternative Activity Graph Service -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Parthh191&theme=react-dark&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<!-- Option 3: GitHub Contribution Calendar (Fallback) -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/f85d7f/Parthh191" alt="GitHub Contribution Chart" />
 </p>
 
 <!-- Language Stats -->
