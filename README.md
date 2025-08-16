@@ -58,6 +58,11 @@
   <span style="color:#888;">Open source projects and public repository activity</span><br/><br/>
 </p>
 
+<!-- Public Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Public%20Repository%20Activity" width="100%" alt="Public GitHub Activity" />
+</p>
+
 <!-- Language Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthh191&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
