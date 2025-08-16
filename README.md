@@ -53,25 +53,25 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthh191&theme=radical" />
 </p>
 
-<!-- GitHub Contribution Graph - Multiple Reliable Options -->
+<!-- GitHub Contribution Graph -->
 <p align="center">
-  <b style="font-size:1.2em;">📈 Parth Tyagi's Contribution Graph</b><br/>
-  <span style="color:#888;">My GitHub contribution activity over the past year</span><br/><br/>
+  <b style="font-size:1.2em;">📈 GitHub Activity & Contributions</b><br/>
+  <span style="color:#888;">331 contributions in the last year</span><br/><br/>
 </p>
 
-<!-- Option 1: GitHub Activity Graph (Most Reliable) -->
+<!-- Primary Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&theme=react-dark&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true&custom_title=Parth%20Tyagi's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Parth%20Tyagi%27s%20GitHub%20Activity" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-<!-- Option 2: Alternative Activity Graph Service -->
+<!-- Alternative: GitHub Contribution Grid -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Parthh191&theme=react-dark&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/00FF41/Parthh191" alt="GitHub Contribution Chart" width="100%" />
 </p>
 
-<!-- Option 3: GitHub Contribution Calendar (Fallback) -->
+<!-- Backup: Contribution Stats -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/f85d7f/Parthh191" alt="GitHub Contribution Chart" />
+  <img src="https://streak-stats.demolab.com/?user=Parthh191&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" alt="GitHub Streak Stats" />
 </p>
 
 <!-- Language Stats -->
