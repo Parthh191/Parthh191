@@ -116,7 +116,7 @@ A passionate and fast-learning web developer in the making, actively exploring t
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="48" height="48" />
   </a>
   <a href="https://discord.com/users/silentscrawl" target="_blank" style="margin:0 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="48" height="48" />
   </a>
 </p>
 
