@@ -46,33 +46,26 @@
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthh191&theme=radical" alt="GitHub Streak" />
 </p>
 
-<!-- Manual Activity Summary -->
-<div align="center">
-
-### 🎯 **2024 Contribution Summary**
-**Total Contributions:** 331 contributions in the last year  
-**Peak Activity:** July - August 2024  
-**Consistency:** Regular contributor across multiple projects  
-
-*📝 Note: Graphs below show public contributions only. Total includes private repository work.*
-
-</div>
+<!-- Public Repository Activity -->
+<p align="center">
+  <b style="font-size:1.2em;">📈 Public Repository Contributions</b><br/>
+  <span style="color:#888;">Open source projects and public repository activity</span><br/><br/>
+</p>
 
 <!-- Public Contribution Graph -->
 <p align="center">
-  <b>📈 Public Contribution Activity</b><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Public%20Repository%20Activity" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Public%20Repository%20Activity" width="100%" alt="Public GitHub Activity" />
 </p>
 
-<!-- Alternative Contribution Display -->
+<!-- Alternative Public Contribution Display -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FF41/Parthh191" alt="GitHub Contribution Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/00FF41/Parthh191" alt="Public GitHub Contributions" width="100%" />
 </p>
 
 <!-- Language Stats -->
