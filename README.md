@@ -56,18 +56,9 @@ A passionate and fast-learning web developer in the making, actively exploring t
   <span style="color:#888;">Open source projects and public repository activity</span><br/><br/>
 </p>
 
-<!-- Public Contribution Graph (Monthly) -->
+<!-- Public Contribution Graph -->
 <p align="center">
-  <b style="font-size:1.2em; color:#79FF97;">📈 Public Repository Activity (Last 30 Days)</b><br/>
-  <span style="color:#888;">Open source projects and public repository activity (monthly)</span><br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Public%20Repository%20Activity" width="100%" alt="Public GitHub Activity" />
-</p>
-
-<!-- Public Contribution Graph (Yearly) -->
-<p align="center">
-  <b style="font-size:1.2em; color:#79FF97;">Public Repository Activity (Last Year)</b><br/>
-  <span style="color:#888;">Open source projects and public repository activity (yearly)</span><br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Yearly%20Public%20Repository%20Activity&interval=year" width="100%" alt="Yearly Public GitHub Activity" />
 </p>
 
 <!-- Language Stats -->
