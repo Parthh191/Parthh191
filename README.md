@@ -56,6 +56,11 @@ A passionate and fast-learning web developer in the making, actively exploring t
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/calendar?username=Parthh191&theme=radical" alt="GitHub Contribution Calendar" />
 </p>
 
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
 <!-- Public Repository Activity -->
 <p align="center">
   <b style="font-size:1.2em;">📈 Public Repository Contributions</b><br/>
