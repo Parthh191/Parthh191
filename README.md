@@ -44,16 +44,13 @@ A passionate and fast-learning web developer in the making, actively exploring t
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parthh191&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive?username=Parthh191&theme=radical" alt="GitHub Productive" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthh191&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=Parthh191&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/calendar?username=Parthh191&theme=radical" alt="GitHub Contribution Calendar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthh191&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- Animated Divider -->
@@ -70,11 +67,6 @@ A passionate and fast-learning web developer in the making, actively exploring t
 <!-- Public Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Public%20Repository%20Activity" width="100%" alt="Public GitHub Activity" />
-</p>
-
-<!-- Language Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthh191&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- Animated Divider -->
