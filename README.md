@@ -62,7 +62,7 @@ A passionate and fast-learning web developer in the making, actively exploring t
 </p>
 
 <p align="center">
-  <span style="color:#888;">Open source projects and public repository activity</span><br/><br/>
+  <b style="color:#888;">Open source projects and public repository activity</b><br/><br/>
 </p>
 <!-- Public Contribution Graph -->
 <p align="center">
