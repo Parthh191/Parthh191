@@ -50,9 +50,7 @@ A passionate and fast-learning web developer in the making, actively exploring t
 <!-- Public Repository Activity -->
 <p align="center">
   <b style="font-size:1.2em;">📈 Public Repository Contributions</b><br/>
-  <span style="color:#888;">Open source projects and public repository activity</span><br/><br/>
-</p>
-<p align="center">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" onerror="this.style.display='none'; document.getElementById('stats-fallback').style.display='block';" />
 </p>
 <p align="center">
@@ -61,8 +59,8 @@ A passionate and fast-learning web developer in the making, actively exploring t
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthh191&theme=radical&hide_border=true&layout=compact" alt="Top Languages" onerror="this.style.display='none'; document.getElementById('langs-fallback').style.display='block';" />
 </p>
-
-
+  <span style="color:#888;">Open source projects and public repository activity</span><br/><br/>
+</p>
 <!-- Public Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh191&bg_color=0D1117&color=79FF97&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Public%20Repository%20Activity" width="100%" alt="Public GitHub Activity" />
