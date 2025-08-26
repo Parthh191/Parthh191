@@ -44,14 +44,19 @@ A passionate and fast-learning web developer in the making, actively exploring t
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthh191&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" onerror="this.style.display='none'; document.getElementById('stats-fallback').style.display='block';" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthh191&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthh191&theme=radical" alt="GitHub Streak" onerror="this.style.display='none'; document.getElementById('streak-fallback').style.display='block';" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthh191&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthh191&theme=radical&hide_border=true&layout=compact" alt="Top Languages" onerror="this.style.display='none'; document.getElementById('langs-fallback').style.display='block';" />
 </p>
+
+<!-- Fallbacks for GitHub Stats -->
+<p align="center" id="stats-fallback" style="display:none; color:#F75C7E; font-size:1.1em;">⚠️ GitHub Stats are temporarily unavailable.</p>
+<p align="center" id="streak-fallback" style="display:none; color:#F75C7E; font-size:1.1em;">⚠️ GitHub Streak data is temporarily unavailable.</p>
+<p align="center" id="langs-fallback" style="display:none; color:#F75C7E; font-size:1.1em;">⚠️ Top Languages data is temporarily unavailable.</p>
 
 <!-- Animated Divider -->
 <p align="center">
